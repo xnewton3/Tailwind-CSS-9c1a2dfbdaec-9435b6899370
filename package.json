@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-css-9c1a2dfbdaec-9435b6899370",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./style.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.nexed.com:01919ca3-536f-753f-9f62-96f2a8bd4968/01919ca8-ac85-7b33-b1b2-6fa894d29995/Tailwind-CSS-9c1a2dfbdaec-9435b6899370.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
